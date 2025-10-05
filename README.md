@@ -1,20 +1,20 @@
 <!-- ### Hi there 👋 -->
 
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=klaus464&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=klaus464&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=klaus464&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=mohammedawaiskhan&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedawaiskhan&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mohammedawaiskhan&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/klaus464/klaus464/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/klaus464/klaus464/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/klaus464/klaus464/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mohammedawaiskhan/mohammedawaiskhan/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/mohammedawaiskhan/mohammedawaiskhan/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/mohammedawaiskhan/mohammedawaiskhan/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
 
 <!--
-**klaus464/klaus464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**mohammedawaiskhan/mohammedawaiskhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
